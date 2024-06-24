@@ -1,0 +1,93 @@
+:root {
+  --primary-color: #313b47;
+  --secondary-color: #449399;
+  --white: #ffffff;
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  width: 1212px!important;
+  min-height: 1581px!important;
+  padding: 10px;
+}
+
+.profileImgContainer {
+    width: 162px;
+    height: 162px;
+    /* width: 90%;
+    height: 90%; */
+    border: 5px solid var(--primary-color);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconContainer {
+    display: flex;
+    align-items:center;
+    width: 70%;
+    gap: 10px;
+}
+
+.filledIcon {
+  background-color: var(--primary-color) !important;
+  fill: rgb(255, 255, 255) !important;
+  padding: 5px !important;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+li {
+  list-style-type: square;
+  /* list-style-position: inside; */
+}
+
+.listContainer {
+  display: flex;
+  gap:5px
+}
+
+.listContainer > .listIcon {
+  fill: var(--primary-color);
+}
+
+.listContainer  > svg {
+  width: 24px !important;
+  height: 24px !important;
+}
+
+.projectTitleUnderline {
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    width: 90%;
+    height: 3px;
+    background-color: var(--primary-color);
+}
+
+@page {
+  size: A4;
+  margin: 0;
+}
+@media print {
+  html, body {
+    width: 210mm;
+    height: 297mm;
+  }
+}
+
+a:hover {
+  outline: none;
+}
