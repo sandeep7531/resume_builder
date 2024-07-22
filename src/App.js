@@ -44,9 +44,7 @@ class App extends React.Component {
                   <Typography variant="h3">Sandeep</Typography>
                   <Typography variant="h5">Senior Frontend Developer</Typography>
                   <Typography paragraph>
-                    I enjoy learning a lot and want to work with a company where
-                    I can apply new things, ideas, have the flexibility to play
-                    with them, and learn more.
+                    Adept in continuous learning and seeking a position within a company that values innovation, flexibility, and the integration of cutting-edge ideas.
                   </Typography>
                 </Grid>
               </Grid>
@@ -144,3 +142,6 @@ class App extends React.Component {
 }
 
 export default App;
+
+
+

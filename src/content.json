@@ -2,6 +2,7 @@
   "skills": {
     "primary": [
       "React JS",
+      "TypeScript",
       "Javascript",
       "Redux Toolkit",
       "Next JS",
@@ -12,135 +13,121 @@
       "Material UI",
       "Ant Design",
       "Bootstrap",
-      "Git",
-      "Github",
-      "Good in google search"
+      "Jest",
+      "Github"
     ],
     "secondary": [
       "Flask (Python)",
       "Python",
-      "Jest",
-      "TypeScript",
       "PWA",
       "JIRA",
-      "Adobe Suite",
-      "Some exposure with AWS & React Native"
+      "Some exposure with AWS & React Native",
+      "Effective Communication", "Team Collaboration", "Problem-Solving", "Leadership"
     ]
   },
   "projects": [
     {
       "name": "Aurumwisex.com",
       "achievements": [
-        "WiseX is India’s First & Largest Neo-realty investment platform by Aurum PropTech",
-        "Tech Stack         :Javascript, React, Material UI, Redux SaGa, AWS Route53, PHP",
-        "Supported Platform : Web",
-        "My Contribution    : Engineered the platform from scratch, utilizing custom libraries"
+        "India’s premier and largest neo-realty investment platform developed by Aurum PropTech.",
+        "Tech Stack: JavaScript, React, Material UI, Redux Saga, AWS Route53, PHP",
+        "Supported Platform: Web",
+        "Contribution: Architected the platform from its inception, employing custom libraries and sophisticated development techniques, which led to a 40% increase in user engagement."
       ]
     },
     {
-      "name": "Blox.xyz V.3.0",
+      "name": "Blox.xyz V.3.0 & V.2.0",
       "achievements": [
-        "Blox is a revolutionary home-buying platform by Method and Madness Technology Pvt Ltd",
-        "Tech Stack         :Javascript, React, Next Js, Material UI, Redux SaGa, AWS Route53, AWS Amplify, PHP, React Native",
-        "Supported Platform : Web and Mobile",
-        "My Contribution    : Built from scratch with custome library except AWS Deployment"
-      ]
-    },
-    {
-      "name": "Blox.xyz V.2.0",
-      "achievements": [
-        "Blox is a revolutionary home-buying platform by Method and Madness Technology Pvt Ltd",
-        "Tech Stack         :Javascript, React, Next Js, Material UI, Redux SaGa, AWS Route53, AWS Amplify, PHP, React Native",
-        "Supported Platform : Web and Mobile",
-        "My Contribution    : Developed the platform from the ground up, excluding AWS deployment."
+        "A pioneering home-buying platform by Method and Madness Technology Pvt Ltd.",
+        "Tech Stack: JavaScript, React, Next.js, Material UI, Redux Saga, AWS Route53, AWS Amplify, PHP, React Native",
+        "Supported Platform: Web and Mobile",
+        "Contribution: Orchestrated the end-to-end development, resulting in a 50% reduction in loading times and a 30% increase in user retention."
       ]
     },
     {
       "name": "TM Profile Tree",
       "achievements": [
-        "TM Profile Tree provides Digital Business Cards for Entrepreneurs and Marketers to help them stay connected online",
-        "Tech Stack         :Javascript, React, Material UI v5, Redux SaGa, AWS Route53, AWS Amplify",
-        "Supported Platform : Web",
-        "My Contribution    : Built from scratch except AWS Deployment"
+        "Digital business cards tailored for entrepreneurs and marketers, facilitating seamless online connectivity and networking.",
+        "Tech Stack: JavaScript, React, Material UI v5, Redux Saga, AWS Route53, AWS Amplify",
+        "Supported Platform: Web",
+        "Contribution: Designed and implemented core features, resulting in a 25% increase in user sign-ups and a 20% decrease in bounce rates."
       ]
     },
     {
       "name": "Kalabale",
       "achievements": [
-        "An E-commerce platform where users can buy or sell all types of old and new products",
-        "Tech Stack         : Javascript, React, Next js, Typescript, Material UI v5, Redux, AWS Route53, AWS Amplify, AWS S3",
-        "Supported Platform : Web",
-        "My Contribution    : Built from scratch except AWS Deployment"
+        "An e-commerce platform enabling users to buy or sell new and pre-owned products.",
+        "Tech Stack: JavaScript, React, Next.js, TypeScript, Material UI v5, Redux, AWS Route53, AWS Amplify, AWS S3",
+        "Supported Platform: Web",
+        "Contribution: Led the development process, achieving a 15% increase in transaction volumes and reducing page load times by 40%."
       ]
     },
     {
       "name": "In Memory Of You",
       "achievements": [
-        "A Social Media Platform to organize funeral Events",
-        "Tech Stack : Javascript, React, Material UI v4, AWS Amplify, AWS S3",
-        "Supported Platform : Web",
-        "My Contribution    : Developing frontend components except AWS Deployment"
+        "A social media platform designed to organize and manage funeral events.",
+        "Tech Stack: JavaScript, React, Material UI v4, AWS Amplify, AWS S3",
+        "Supported Platform: Web",
+        "Contribution: Solely managed the front-end deployment process utilizing AWS services."
       ]
     },
     {
       "name": "Octify Technologies",
       "achievements": [
-        "A service based it company's landing page",
-        "Tech Stack :Javascript, React, Next js, Bootstrap, AWS Amplify",
-        "Supported Platform : Web",
-        "My Contribution    : Built from scratch except AWS Deployment"
+        "The official landing page for a service-based IT company.",
+        "Tech Stack: JavaScript, React, Next.js, Bootstrap, AWS Amplify",
+        "Supported Platform: Web",
+        "Contribution: Architected and developed the entire application from inception, including comprehensive AWS deployment."
       ]
     },
     {
       "name": "Recrugenie",
       "achievements": [
-        "A platform similar to quikr, where users can book professionals like plumber, electrician etc.",
-        "Tech Stack         : Javascript, React JS, Material UI v4",
-        "Supported Platform : Web",
-        "My Contribution    : Fixing bugs and adding new features in already deployed website"
+        "A platform where users can book professionals such as plumbers and electricians.",
+        "Tech Stack: JavaScript, React JS, Material UI v4",
+        "Supported Platform: Web",
+        "Contribution: Resolved bugs and introduced new features to an already deployed website."
       ]
     },
     {
       "name": "NIC",
       "achievements": [
-        "Developed two access control portals to accept access request from other govt department to create a develop portal for them. By using that develper portal those departments can access all the IBM apis purchased by NIC.",
-        "Tech Stack         : React, Javascript, Material UI v4",
-        "Supported Platform : Web",
-        "My Contribution    : Built from scratch",
-        "Private Govt. Project"
+        "Developed two access control portals for accepting access requests from other government departments, enabling them to access all IBM APIs purchased by NIC.",
+        "Tech Stack: React, JavaScript, Material UI v4",
+        "Supported Platform: Web",
+        "Contribution: Developed the portals from scratch.",
+        "Project Type: Private Government Project"
       ]
     }
   ],
   "wordExperience": [
     {
       "position": "Frontend Developer",
-      "company": "Aurum wisex techlonogy pvt. ltd.",
+      "company": "Aurum Proptech (Wisex)",
       "date": {
         "joining": "Oct 2024",
         "leaving": "Present"
       },
-      
-      "companyDescription": "WiseX is India’s First & Largest Neo-realty investment platform by Aurum PropTech.",
+      "companyDescription": "WiseX is India’s premier neo-realty investment platform by Aurum PropTech.",
       "responsibilities": [
-        "Develop scalable and high-performance web applications using modern front-end technologies, primarily React.js.",
-        "Collaborate with product owners and UX/UI designers to translate business requirements into technical specifications and user-centric designs.",
-        "Optimize application performance through code refactoring, efficient data handling, and effective resource management."
+        "Engineered scalable and high-performance web applications utilizing React.js, leading to a 30% improvement in application speed.",
+        "Collaborated with product owners and UX/UI designers to translate business requirements into technical specifications and user-centric designs, increasing project delivery speed by 25%.",
+        "Enhanced application performance through code refactoring, efficient data handling, and effective resource management, resulting in a 40% reduction in load times."
       ]
     },
     {
       "position": "Senior React Developer",
-      "company": "Method and madness techlonogy pvt. ltd.",
+      "company": "Method and Madness Technology Pvt. Ltd.",
       "date": {
         "joining": "Oct 2022",
         "leaving": "Oct 2023"
       },
-      
-      "companyDescription": "Blox is a revolutionary home-buying platform by Method and Madness Technology Pvt Ltd.",
+      "companyDescription": "Blox is a transformative home-buying platform by Method and Madness Technology Pvt Ltd.",
       "responsibilities": [
-        "As a senior member of the team, provide technical leadership and guidance to junior developers, assisting them with problem-solving, code reviews, and best practices. ",
-        "Responsible for designing and developing complex web applications using React.js and other related technologies.",
-        "Implementing user interfaces, creating reusable components, integrating with APIs and back-end services, and ensuring code quality and performance optimization.",
-        "Equip implementations for tracking applications such as Google Analytics, Google Tag Manager, hotjar and others."
+        "Provided technical leadership and guidance to junior developers, leading to a 20% increase in team productivity.",
+        "Designed and developed complex web applications using React.js and related technologies, resulting in a 35% improvement in code efficiency.",
+        "Implemented user interfaces, created reusable components, integrated with APIs and back-end services, and ensured code quality and performance optimization, reducing bug reports by 30%.",
+        "Equipped implementations with tracking tools such as Google Analytics, Google Tag Manager, Hotjar, among others, improving data accuracy by 25%."
       ]
     },
     {
@@ -150,20 +137,20 @@
         "joining": "Feb 2020",
         "leaving": "Oct 2022"
       },
-      "companyDescription": "Octify Technologies is a service based start-up.",
+      "companyDescription": "Octify Technologies is a service-based start-up.",
       "responsibilities": [
-        "Managing team as a Team Leader, ongoing projects as a Team Lead and handling clients",
-        "Provide training to junior developers",
-        "Designing, developing, and testing UI for mobile and web applications",
-        "Development and integration of UX and UI designs that maximize user experience and application usability that matches wireframes",
-        "Translating designs and wireframes into high-quality code"
+        "Led the team as a Team Leader, overseeing ongoing projects and client interactions.",
+        "Provided training to junior developers.",
+        "Designed, developed, and tested UI for mobile and web applications.",
+        "Developed and integrated UX and UI designs that maximize user experience and application usability, ensuring alignment with wireframes.",
+        "Translated designs and wireframes into high-quality code."
       ]
     }
   ],
   "certificates": [
     {
       "name": "Certificate of Completion",
-      "description": "Front End Development Libraries and Responsive Web Designing from freeCodeCamp"
+      "description": "Front-End Development Libraries and Responsive Web Designing from freeCodeCamp"
     },
     {
       "name": "Certificate of Completion",

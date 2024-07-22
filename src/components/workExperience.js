@@ -11,7 +11,7 @@ const WorkExperience = () => (
       <Box className="iconContainer" width={"100%"} mb={2}>
         <WorkOutlineIcon />
         <Typography color="white" fontWeight={"bold"} mb={0} variant={"h5"}>
-          WORK EXPERIENCE
+          PROFESSIONAL EXPERIENCE
         </Typography>
       </Box>
     </Grid>

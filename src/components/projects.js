@@ -29,7 +29,7 @@ const Projects = () => (
           ))}
           {i === 3 && (
             <Fragment>
-              {new Array(11).fill("").map((_, i) => (
+              {new Array(4).fill("").map((_, i) => (
                 <br key={i} />
               ))}
             </Fragment>
