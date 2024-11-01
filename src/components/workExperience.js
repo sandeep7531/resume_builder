@@ -24,14 +24,19 @@ const WorkExperience = () => (
         <Fragment key={i}>
           {i === 2 && (
             <Fragment>
-              {new Array(4).fill("").map((_, i) => (
+              {new Array(2).fill("").map((_, i) => (
                 <br key={i} />
               ))}
             </Fragment>
           )}
           <Grid container>
             <Grid item xs={12}>
-              <Typography sx={{ mt: 3 }} color="white" variant={"h5"} fontWeight={"bold"}>
+              <Typography
+                sx={{ mt: 3 }}
+                color="white"
+                variant={"h5"}
+                fontWeight={"bold"}
+              >
                 {position}
               </Typography>
               <Typography color="white" variant={"h6"}>

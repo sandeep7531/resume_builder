@@ -4,6 +4,12 @@
       "React JS",
       "TypeScript",
       "Javascript",
+      "Node",
+      "Express",
+      "MongoDB",
+      "MySQL",
+      "Firebase",
+      "AWS",
       "Redux Toolkit",
       "Next JS",
       "HTML5",
@@ -21,12 +27,12 @@
       "Python",
       "PWA",
       "JIRA",
-      "Some exposure with AWS & React Native",
-      "Effective Communication", "Team Collaboration", "Problem-Solving", "Leadership"
+      "Some exposure with AWS & React Native"
     ]
   },
   "projects": [
     {
+      "url": "https://aurumwisex.com/",
       "name": "Aurumwisex.com",
       "achievements": [
         "India’s premier and largest neo-realty investment platform developed by Aurum PropTech.",
@@ -36,6 +42,7 @@
       ]
     },
     {
+      "url": "https://blox.xyz/mumbai",
       "name": "Blox.xyz V.3.0 & V.2.0",
       "achievements": [
         "A pioneering home-buying platform by Method and Madness Technology Pvt Ltd.",
@@ -45,6 +52,7 @@
       ]
     },
     {
+      "url": "https://myprofiletree.in/",
       "name": "TM Profile Tree",
       "achievements": [
         "Digital business cards tailored for entrepreneurs and marketers, facilitating seamless online connectivity and networking.",
@@ -54,6 +62,7 @@
       ]
     },
     {
+      "url": "https://kalabale.lk/",
       "name": "Kalabale",
       "achievements": [
         "An e-commerce platform enabling users to buy or sell new and pre-owned products.",
@@ -63,6 +72,7 @@
       ]
     },
     {
+      "ur": "#",
       "name": "In Memory Of You",
       "achievements": [
         "A social media platform designed to organize and manage funeral events.",
@@ -72,6 +82,7 @@
       ]
     },
     {
+      "url": "https://www.octifytechnologies.com/",
       "name": "Octify Technologies",
       "achievements": [
         "The official landing page for a service-based IT company.",
@@ -81,6 +92,7 @@
       ]
     },
     {
+      "url": "#",
       "name": "Recrugenie",
       "achievements": [
         "A platform where users can book professionals such as plumbers and electricians.",
@@ -90,6 +102,7 @@
       ]
     },
     {
+      "url": "https://www.nic.in/",
       "name": "NIC",
       "achievements": [
         "Developed two access control portals for accepting access requests from other government departments, enabling them to access all IBM APIs purchased by NIC.",
@@ -105,14 +118,14 @@
       "position": "Frontend Developer",
       "company": "Aurum Proptech (Wisex)",
       "date": {
-        "joining": "Oct 2024",
-        "leaving": "Present"
+        "joining": "Oct 2023",
+        "leaving": "10th Oct 2024"
       },
       "companyDescription": "WiseX is India’s premier neo-realty investment platform by Aurum PropTech.",
       "responsibilities": [
         "Engineered scalable and high-performance web applications utilizing React.js, leading to a 30% improvement in application speed.",
-        "Collaborated with product owners and UX/UI designers to translate business requirements into technical specifications and user-centric designs, increasing project delivery speed by 25%.",
-        "Enhanced application performance through code refactoring, efficient data handling, and effective resource management, resulting in a 40% reduction in load times."
+        "Worked with product owners and designers to turn requirements into user-focused designs, boosting delivery speed by 25%.",
+        "Optimized application performance with code refactoring and efficient data handling, reducing load times by 40%."
       ]
     },
     {
@@ -168,10 +181,19 @@
     }
   ],
   "interests": [
-    "Books",
-    "Tech",
-    "Business",
-    "Music"
+    "Leadership",
+    "Mentorship",
+    "Initiative",
+    "Reading",
+    "Collaboration",
+    "Communication",
+    "Adaptability",
+    "Creativity",
+    "Empathy",
+    "Patience",
+    "Responsibility",
+    "Flexibility",
+    "Curiosity"
   ],
   "education": [
     {
